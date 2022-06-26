@@ -1,0 +1,6 @@
+24004600	         PEREZ Juana	f	24/09/1975	A
+24004601	     Ferrari Gerardo	m	01/09/1986	B
+24004602	      GIMENEZ Susana	m	24/09/1975	A
+24004603	    GIMENEZ Jonathan	m	13/11/1988	A
+31478510	    CERETO Sebastian	m	03/05/1984	B
+27478333	    Torres Cristiano	f	02/04/1810	M
